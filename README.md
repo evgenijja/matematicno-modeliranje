@@ -1,7 +1,5 @@
 # Matematično modliranje
 
-Zbirka vseh datotek in rešenih nalog pri predmetu Matematično modeliranje 2020/21. Vir pripravljenih datotek in funkcij je spletna učilnica predmeta, kvize in izpite pa sem reševala sama.
-
 ## Projektna naloga
 
 V mapi Projektna naloga se nahaja rešitev in poročilo projektne naloge.
